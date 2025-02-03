@@ -1,6 +1,6 @@
 # Popcorn APP 
 
-<p>UsePopcorn is a React application that helps users to discover movies, rate them, and maintain a personalized list of watched films. Using the Open Movie Database API, user can access comprehensive movie details such as genre, cast, director, ratings, and more. This application is an educational project as part of a course offered by Jonas Schmedtmann.</p>
+<p>UsePopcorn is a React application that helps users to discover movies, rate them, and maintain a personalized list of watched films. Using the Open Movie Database API, user can access comprehensive movie details such as genre, cast, director, ratings, and more.</p>
 
 <img src="/src/img/usePopcorn.png" alt="UsePopcorn app" >
 
